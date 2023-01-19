@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Caveat-Bold.ttf",
+      "sha1": "b8cf7188694f0ad229fec80e8074b1df6305cdfa"
+    },
+    {
+      "path": "assets/fonts/Caveat-VariableFont_wght.ttf",
+      "sha1": "622989e46c6e18a42f96e92622e5cdb5ebde0f47"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-Italic-VariableFont_wght.ttf",
+      "sha1": "74e734d8d1f467dc7fd254359b595c2ed8e9decf"
+    }
+  ]
+}
